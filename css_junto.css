@@ -248,7 +248,7 @@ a.navegacion_link_menu {
   text-align: center;
   width: 100%;
   height: 90vh;
-  background-image: url(/img/1.\ Index_Imagen_Principal.jpg);
+  background-image: url(img/1.\ Index_Imagen_Principal.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0px;
@@ -295,7 +295,7 @@ color: white;
   text-align: center;
   background-position-y: 40%;
   background-size: cover;
-  background-image: url(/img/2.Banner_Clubs.jpg);
+  background-image: url(img/2.Banner_Clubs.jpg);
   background-repeat: no-repeat;
   background-color: grey;
 }
